@@ -1,0 +1,48 @@
+{
+  "templateName": "Insert_demo",
+  "templateSha256": "eafeb536b2a51757ea0f51f56e09911e6b549d10ded213d1a13a520741733cf2",
+  "firstBase": 295,
+  "lastBase": 1206,
+  "model": {
+    "library": "Biopython",
+    "version": "1.88",
+    "method": "Tm_NN",
+    "table": "DNA_NN3",
+    "saltCorrection": 5,
+    "strand1nM": 25,
+    "strand2nM": 25,
+    "sodiumMm": 50,
+    "potassiumMm": 0,
+    "trisMm": 0,
+    "magnesiumMm": 0,
+    "dntpMm": 0,
+    "selfComplementary": false
+  },
+  "references": [
+    "https://biopython.org/docs/1.88/api/Bio.SeqUtils.MeltingTemp.html",
+    "https://doi.org/10.1073/pnas.95.4.1460"
+  ],
+  "pairs": [
+    {
+      "number": 1,
+      "forward": "TGTCACGAATTCGGCGATAC",
+      "forwardTmC": 52.82728521,
+      "reverse": "GGATCCACTCATCCCTACAA",
+      "reverseTmC": 50.10958464
+    },
+    {
+      "number": 2,
+      "forward": "TGTCACGAATTCGGCGATACTA",
+      "forwardTmC": 53.85471386,
+      "reverse": "GGATCCACTCATCCCTACAAAA",
+      "reverseTmC": 51.54981784
+    },
+    {
+      "number": 3,
+      "forward": "TGTCACGAATTCGGCGAT",
+      "forwardTmC": 51.4838427,
+      "reverse": "GGATCCACTCATCCCTAC",
+      "reverseTmC": 47.26602476
+    }
+  ]
+}

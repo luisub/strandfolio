@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "kipcak-erisir-cbln2-v1",
+      "title": "Sequence Homology and Transcription Factor Binding Site Analysis, version 1.0",
+      "url": "https://doi.org/10.18130/V3/NEGJWP",
+      "license": "CC0-1.0",
+      "license_url": "https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi%3A10.18130%2FV3%2FNEGJWP",
+      "attribution": "Arda Kipcak and Alev Erisir (2025), University of Virginia Dataverse, version 1.0, doi:10.18130/V3/NEGJWP. Data dedicated under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "id": "sb2cl-promoter-rbs-v1.0.2",
+      "title": "Combinatorial Promoter–RBS Expression Library (SBOL3 and GenBank), v1.0.2",
+      "url": "https://doi.org/10.5281/zenodo.18828308",
+      "license": "MIT",
+      "license_url": "https://github.com/sb2cl/combinatorial-promoter-rbs-library/blob/848947015a2b52c17161906238a853d9ddf43bd3/zenodo_metadata.json",
+      "attribution": "Alejandro Vignoni and Yadira Boada, SB2CL, Universitat Politècnica de València (2026), doi:10.5281/zenodo.18828308. MIT License Copyright (c) 2026 SB2CL Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    },
+    {
+      "id": "t2t-chm13-v2.0",
+      "title": "Telomere-to-Telomere Consortium human reference assembly T2T-CHM13v2.0",
+      "url": "https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_009914755.4/",
+      "license": "CC0-1.0",
+      "license_url": "https://github.com/marbl/CHM13#data-reuse-and-license",
+      "attribution": "Telomere-to-Telomere (T2T) Consortium, T2T-CHM13v2.0. Consortium sequence data are dedicated to the public domain under CC0 1.0. Nurk et al. (2022), doi:10.1126/science.abj6987."
+    },
+    {
+      "id": "weeks-protein-tags-dryad-2025-08-12",
+      "title": "Engineered reactivity of a bacterial E1-like enzyme enables ATP-driven modification of protein C termini, Dryad release 2025-08-12",
+      "url": "https://doi.org/10.5061/dryad.c59zw3rkb",
+      "license": "CC0-1.0",
+      "license_url": "https://datadryad.org/help/guides/reuse",
+      "attribution": "Amy Weeks, Clara Frazier, Debashrito Deb, William Leiter and Umasankar Mondal (2025), University of Wisconsin–Madison, Dryad, doi:10.5061/dryad.c59zw3rkb. CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)."
+    }
+  ],
+  "references": [
+    {
+      "id": "dryad-pbh4-his-sumo-gfp-lpetgg",
+      "label": "pBH4-His-SUMO-GFP-LPETGG",
+      "kind": "plasmid",
+      "source_id": "weeks-protein-tags-dryad-2025-08-12",
+      "source_record": "pBH4-His-SUMO-GFP-LPETGG.gb; Dryad file 4228512; LOCUS pBH4_His_SUMO_EGFP_LPET; complete circular record 1..6759 (1-based inclusive).",
+      "length_bp": 6759,
+      "sequence_sha256": "311c8a31d54c33a206f6a7846c67d15cbf0d40f8b102f512af64ad670333acb7",
+      "topology": "circular",
+      "aliases": []
+    },
+    {
+      "id": "dryad-pbh4-mbp-tech",
+      "label": "pBH4-MBP-TeCH",
+      "kind": "plasmid",
+      "source_id": "weeks-protein-tags-dryad-2025-08-12",
+      "source_record": "pBH4-MBP-TeCH.gb; Dryad file 4228516; LOCUS pBH4-His-Tev-MBP; complete circular record 1..6921 (1-based inclusive).",
+      "length_bp": 6921,
+      "sequence_sha256": "f288cbb3ebba753c4a03e7e2f5514fd75c04080c79c9b73447583049a7f2315e",
+      "topology": "circular",
+      "aliases": []
+    },
+    {
+      "id": "human-cbln2-huc2pro",
+      "label": "Human CBLN2 putative promoter (huC2Pro)",
+      "kind": "promoter",
+      "source_id": "kipcak-erisir-cbln2-v1",
+      "source_record": "huCBLN2Pro.fa, record HuCBLN2Pro, complete deposited fragment 1..1798; reported GRCh38 chr18:72542815..72544612 (1-based inclusive). Fingerprint in deposited FASTA orientation.",
+      "length_bp": 1798,
+      "sequence_sha256": "5ce15d5b4b780b90bc888eb99ecc427515950858c2ef5c0898124ec67ec74004",
+      "topology": "linear",
+      "aliases": [
+        "huC2Pro",
+        "HuCBLN2Pro",
+        "human cerebellin 2 putative promoter"
+      ]
+    },
+    {
+      "id": "human-eef1a1-promoter-chm13",
+      "label": "Human EEF1A1 promoter region (CHM13 allele)",
+      "kind": "promoter",
+      "source_id": "t2t-chm13-v2.0",
+      "source_record": "T2T-CHM13v2.0 chromosome 6, NC_060930.1 complement(74697151..74698262), 1-based inclusive. Boundaries correspond to the published J04617.1:450..1561 promoter fragment (Mikkelsen et al., Table 2). The CHM13 allele differs at one base.",
+      "length_bp": 1112,
+      "sequence_sha256": "5e6894d117d475c6dc743bd7c17ac86ad65290329305f4804f51218b2d66ae2d",
+      "topology": "linear",
+      "aliases": [
+        "human EF1α promoter (CHM13)",
+        "human EF1A promoter (CHM13)"
+      ]
+    },
+    {
+      "id": "sb2cl-kanr-aph3-ia-piaka1-11",
+      "label": "KanR (aph(3')-Ia) — pIAKA1_11",
+      "kind": "selection_marker",
+      "source_id": "sb2cl-promoter-rbs-v1.0.2",
+      "source_record": "genbank/pIAKA1_11_L30_13.gb CDS complement(892..1707)",
+      "length_bp": 816,
+      "sequence_sha256": "5be53fe1f1d3926b211b63a0bb2ff2217dfe8beb1184db804d9931d4821b4178",
+      "topology": "linear",
+      "aliases": [
+        "KanR",
+        "aph(3')-Ia",
+        "kanamycin resistance",
+        "Tn903-type KanR"
+      ]
+    },
+    {
+      "id": "sb2cl-kanr-aph3-ia-piaka1s271-11",
+      "label": "KanR (aph(3')-Ia) — pIAKA1s271_11",
+      "kind": "selection_marker",
+      "source_id": "sb2cl-promoter-rbs-v1.0.2",
+      "source_record": "genbank/pIAKA1s271_11_L30_01.gb CDS join(3641..3965,1..491)",
+      "length_bp": 816,
+      "sequence_sha256": "36b7a6e3d2405c272d122d5e5d8ebdb87e46fcf706ce457059db7de4f68ca144",
+      "topology": "linear",
+      "aliases": [
+        "KanR",
+        "aph(3')-Ia",
+        "kanamycin resistance"
+      ]
+    },
+    {
+      "id": "sb2cl-psc101-ori-piaka1s271-11",
+      "label": "pSC101 origin",
+      "kind": "replication_origin",
+      "source_id": "sb2cl-promoter-rbs-v1.0.2",
+      "source_record": "genbank/pIAKA1s271_11_L30_01.gb rep_origin complement(777..1727)",
+      "length_bp": 951,
+      "sequence_sha256": "10cacdc0c17e288b6033aed2b54180a599596828c63ce4d634654fd7de549cf5",
+      "topology": "linear",
+      "aliases": [
+        "origin pSC101"
+      ]
+    },
+    {
+      "id": "sb2cl-puc-ori-piaka1-11",
+      "label": "pUC-ori",
+      "kind": "replication_origin",
+      "source_id": "sb2cl-promoter-rbs-v1.0.2",
+      "source_record": "genbank/pIAKA1_11_L30_13.gb rep_origin 68..792",
+      "length_bp": 725,
+      "sequence_sha256": "4441aea46d527328d7f8305db0f86335b7d816828fe0a6295d657141650210b6",
+      "topology": "linear",
+      "aliases": [
+        "pUC origin",
+        "ColE1/pMB1-like origin"
+      ]
+    }
+  ]
+}
