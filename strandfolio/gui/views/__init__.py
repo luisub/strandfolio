@@ -1,0 +1,1 @@
+"""Focused sequence presentation widgets."""

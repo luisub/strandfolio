@@ -1,0 +1,77 @@
+[build-system]
+requires = ["hatchling>=1.27,<2", "hatch-requirements-txt>=0.4,<1"]
+build-backend = "hatchling.build"
+
+[project]
+name = "strandfolio"
+version = "0.1.12"
+description = "A desktop workbench for DNA, RNA and protein sequence analysis"
+readme = {content-type = "text/markdown", text = """
+# Strandfolio
+
+Explore annotated sequences and plasmid maps, inspect restriction digests, review
+PCR results, compare sequences, and track construct history in a Qt desktop app.
+
+Install from PyPI with `python -m pip install strandfolio`.
+Run `strandfolio --example` to open the bundled reporter or
+`strandfolio path/to/record.gb` to open your own file.
+
+The tested desktop configuration is Python 3.12 on Apple Silicon macOS.
+Linux desktop qualification is pending. The required Kalign 4.0.0 package
+does not support Windows.
+"""}
+requires-python = ">=3.12"
+authors = [{name = "Luis Aguilera"}]
+license = "BSD-3-Clause AND CC-BY-4.0 AND CC0-1.0 AND MIT"
+license-files = ["LICENSE", "databases/plasmids/maps/SB2CL-LICENSE.txt", "docs/installation/DATA-NOTICES.md"]
+dynamic = ["dependencies"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+[project.scripts]
+strandfolio = "strandfolio.gui.main:main"
+
+[project.urls]
+Repository = "https://github.com/luisub/strandfolio"
+
+[tool.hatch.metadata.hooks.requirements_txt]
+files = ["docs/installation/runtime-requirements.txt"]
+
+# Both archives share the runtime allowlist. Hatch adds metadata and license files.
+[tool.hatch.build]
+include = [
+    "/strandfolio/**/*.py",
+    "/strandfolio/data/examples/pReporter_demo.gb",
+    "/strandfolio/data/examples/Insert_demo.gb",
+    "/strandfolio/data/examples/insert_demo_tm.json",
+    "/strandfolio/data/icons/control-*.svg",
+    "/strandfolio/data/icons/icon_strandfolio_app.icns",
+    "/strandfolio/data/icons/icon_strandfolio_app.ico",
+    "/strandfolio/data/icons/icon_strandfolio_app.svg",
+    "/strandfolio/data/icons/icon_strandfolio_gui.svg",
+    "/strandfolio/data/icons/scales/icon_strandfolio_app_*x*.png",
+    "/databases/features/features.sqlite3",
+    "/databases/ladders/ladders.sqlite3",
+    "/databases/plasmids/maps/pBH4-His-SUMO-GFP-LPETGG.gb",
+]
+
+# Core Metadata 2.4 supports SPDX license files and is compatible with Twine 6.2.
+[tool.hatch.build.targets.wheel]
+core-metadata-version = "2.4"
+
+[tool.hatch.build.targets.wheel.sources]
+"databases" = "strandfolio/data/databases"
+
+[tool.hatch.build.targets.sdist]
+core-metadata-version = "2.4"
+
+[tool.hatch.build.targets.sdist.hooks.custom]
+path = "docs/installation/sdist_hook.py"
+
+[tool.hatch.build.targets.sdist.force-include]
+"docs/installation/runtime-requirements.txt" = "docs/installation/runtime-requirements.txt"
+"docs/installation/sdist_hook.py" = "docs/installation/sdist_hook.py"

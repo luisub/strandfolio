@@ -1,0 +1,429 @@
+{
+  "release": "2026-11-17.1",
+  "reviewed": "2026-11-17",
+  "biopython": "1.88",
+  "sources": [
+    {
+      "id": "J01749.1",
+      "name": "pBR322",
+      "archive": "INSDC",
+      "url": "https://getentry.ddbj.nig.ac.jp/getentry/na/J01749",
+      "version": "J01749.1",
+      "topology": "circular",
+      "length": 4361,
+      "sha256": "536042a7485bdabdf49c4d21a306213a098d77d19bdba57a1c6adc76ce2b8372"
+    },
+    {
+      "id": "J02482.1",
+      "name": "ΦX174 replicative-form DNA",
+      "archive": "INSDC",
+      "url": "https://getentry.ddbj.nig.ac.jp/getentry/na/J02482",
+      "version": "J02482.1",
+      "topology": "circular",
+      "length": 5386,
+      "sha256": "97038c7e1edea2297667d7f0426ba942b322c74cb30e072ec66ba47f9c0448d0"
+    },
+    {
+      "id": "J02459.1",
+      "name": "λ wild-type reference",
+      "archive": "INSDC",
+      "url": "https://getentry.ddbj.nig.ac.jp/getentry/na/J02459",
+      "version": "J02459.1",
+      "topology": "linear",
+      "length": 48502,
+      "sha256": "36432a40f602258d19ae7c8152ddbc30390b559f2859c01d7047c77b048c71b3"
+    },
+    {
+      "id": "M77789.2",
+      "name": "pUC19",
+      "archive": "INSDC",
+      "url": "https://getentry.ddbj.nig.ac.jp/getentry/na/M77789?filetype=html",
+      "version": "M77789.2",
+      "topology": "circular",
+      "length": 2686,
+      "sha256": "7c1183b16368b1435452d99152d7c95aa04fc4a5412e563a5ef1d0fbf0cf873b"
+    },
+    {
+      "id": "pPSU1",
+      "name": "Penn State pPSU1 (DNASU 744)",
+      "archive": "DNASU",
+      "url": "https://dnasu.org/DNASU/GetVectorDetail.do?vectorid=744",
+      "version": "sequence SHA-256",
+      "topology": "circular",
+      "length": 10000,
+      "sha256": "a422a49a334a8eb26264d5de9869de89abf91cba9d4a07ecc450b8184428e88f"
+    },
+    {
+      "id": "pPSU2",
+      "name": "Penn State pPSU2 (DNASU 746)",
+      "archive": "DNASU",
+      "url": "https://dnasu.org/DNASU/GetVectorDetail.do?vectorid=746",
+      "version": "sequence SHA-256",
+      "topology": "circular",
+      "length": 7750,
+      "sha256": "aefee1c76cc3b433e0fc521a7de7fd1e75f5a975a9d830dc1b49534bb21c3ebf"
+    },
+    {
+      "id": "P00489",
+      "name": "Rabbit muscle glycogen phosphorylase",
+      "archive": "UniProtKB",
+      "url": "https://rest.uniprot.org/uniprotkb/P00489.txt",
+      "version": "SV=3",
+      "chain": [
+        2,
+        843
+      ],
+      "length": 843,
+      "sha256": "a4eae8363ad16eea6c946666e11709ab1e6d518c97bd1b0f03efc90aed738303"
+    },
+    {
+      "id": "P02769",
+      "name": "Bovine serum albumin",
+      "archive": "UniProtKB",
+      "url": "https://rest.uniprot.org/uniprotkb/P02769.txt",
+      "version": "SV=4",
+      "chain": [
+        25,
+        607
+      ],
+      "length": 607,
+      "sha256": "e640ebe3321e9fd4ded5679ec269f032171e766662e2a39adf8410c2e7526adb"
+    },
+    {
+      "id": "P01012",
+      "name": "Chicken ovalbumin",
+      "archive": "UniProtKB",
+      "url": "https://rest.uniprot.org/uniprotkb/P01012.txt",
+      "version": "SV=2",
+      "chain": [
+        2,
+        386
+      ],
+      "length": 386,
+      "sha256": "5bfa51fde97d63adfadd573fc73d59e0115ad4ae7d54838cd433abd65ec4d0c9"
+    },
+    {
+      "id": "P00921",
+      "name": "Bovine carbonic anhydrase II",
+      "archive": "UniProtKB",
+      "url": "https://rest.uniprot.org/uniprotkb/P00921.txt",
+      "version": "SV=3",
+      "chain": [
+        2,
+        260
+      ],
+      "length": 260,
+      "sha256": "6f2429b136740e72abd1ee113ec6069609224b0b9d1eec00be030ed2ad9ff27b"
+    },
+    {
+      "id": "1AVU_1",
+      "name": "Soybean Kunitz trypsin inhibitor, 1AVU chain A",
+      "archive": "wwPDB",
+      "url": "https://www.rcsb.org/fasta/entry/1AVU/display",
+      "version": "1AVU entity 1",
+      "chain": [
+        1,
+        181
+      ],
+      "length": 181,
+      "sha256": "63600b9896c3c78d281d01f2581d313367c3a853abc60260fbc0c151344abcb0"
+    },
+    {
+      "id": "P00698",
+      "name": "Chicken egg-white lysozyme C",
+      "archive": "UniProtKB",
+      "url": "https://rest.uniprot.org/uniprotkb/P00698.txt",
+      "version": "SV=1",
+      "chain": [
+        19,
+        147
+      ],
+      "length": 147,
+      "sha256": "e30483cd7af62db58cf1503d6a778afac8ff0dc5f6639251228541bf63338c68"
+    }
+  ],
+  "ladders": [
+    {
+      "id": "pbr322-bstni",
+      "name": "pBR322 / BstNI",
+      "preparations": [
+        [
+          "J01749.1",
+          "BstNI"
+        ]
+      ]
+    },
+    {
+      "id": "pbr322-mspi",
+      "name": "pBR322 / MspI",
+      "preparations": [
+        [
+          "J01749.1",
+          "MspI"
+        ]
+      ]
+    },
+    {
+      "id": "puc19-mspi",
+      "name": "pUC19 / MspI",
+      "preparations": [
+        [
+          "M77789.2",
+          "MspI"
+        ]
+      ]
+    },
+    {
+      "id": "phix-haeiii",
+      "name": "ΦX174 RF / HaeIII",
+      "preparations": [
+        [
+          "J02482.1",
+          "HaeIII"
+        ]
+      ]
+    },
+    {
+      "id": "phix-hinfi",
+      "name": "ΦX174 RF / HinfI",
+      "preparations": [
+        [
+          "J02482.1",
+          "HinfI"
+        ]
+      ]
+    },
+    {
+      "id": "lambda-ecori",
+      "name": "λ reference / EcoRI",
+      "preparations": [
+        [
+          "J02459.1",
+          "EcoRI"
+        ]
+      ]
+    },
+    {
+      "id": "lambda-wt-hindiii",
+      "name": "λ wild-type reference / HindIII",
+      "preparations": [
+        [
+          "J02459.1",
+          "HindIII"
+        ]
+      ]
+    },
+    {
+      "id": "lambda-wt-bsteii",
+      "name": "λ wild-type reference / BstEII",
+      "preparations": [
+        [
+          "J02459.1",
+          "BstEII"
+        ]
+      ]
+    },
+    {
+      "id": "psu-100bp",
+      "name": "Penn State 100 bp",
+      "preparations": [
+        [
+          "pPSU1",
+          "PstI"
+        ],
+        [
+          "pPSU2",
+          "PstI"
+        ]
+      ]
+    },
+    {
+      "id": "psu-1kb-core",
+      "name": "Penn State 1 kb · EcoRV only",
+      "preparations": [
+        [
+          "pPSU1",
+          "EcoRV"
+        ],
+        [
+          "pPSU2",
+          "EcoRV"
+        ]
+      ]
+    },
+    {
+      "id": "psu-1kb-extended",
+      "name": "Penn State 1 kb · extended",
+      "preparations": [
+        [
+          "pPSU1",
+          "EcoRV"
+        ],
+        [
+          "pPSU2",
+          "EcoRV"
+        ],
+        [
+          "pPSU1",
+          "NcoI"
+        ],
+        [
+          "pPSU2",
+          "NcoI"
+        ]
+      ]
+    },
+    {
+      "id": "psu-1kb-alternate",
+      "name": "Penn State 1 kb · pPSU1 alternative",
+      "preparations": [
+        [
+          "pPSU1",
+          "EcoRV"
+        ],
+        [
+          "pPSU1",
+          "EcoRI"
+        ],
+        [
+          "pPSU1",
+          "NcoI"
+        ]
+      ],
+      "nominal_bp": {
+        "2999": 3000,
+        "7001": 7000
+      }
+    },
+    {
+      "id": "natural-protein",
+      "name": "Conventional low-range proteins · calculated mature chains",
+      "preparations": [
+        [
+          "P00489"
+        ],
+        [
+          "P02769"
+        ],
+        [
+          "P01012"
+        ],
+        [
+          "P00921"
+        ],
+        [
+          "1AVU_1"
+        ],
+        [
+          "P00698"
+        ]
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "ladder": "pbr322-bstni",
+      "reference": "NEB N3031",
+      "url": "https://www.neb.com/en-us/products/n3031-pbr322-dna-bstni-digest",
+      "scope": "component_match",
+      "review_sha256": "96d5cceb54e8bef92bcbb559180a4283325b8d7b924f88475cd65875f4069b32"
+    },
+    {
+      "ladder": "pbr322-mspi",
+      "reference": "NEB N3032",
+      "url": "https://www.neb.com/en-us/products/n3032-pbr322-dna-mspi-digest",
+      "scope": "component_match",
+      "review_sha256": "34fbe51891874b2febd08d0a1f72630dc3362ee54901d718ebc9ef3100e42eb7"
+    },
+    {
+      "ladder": "puc19-mspi",
+      "reference": "Thermo Scientific SM0221",
+      "url": "https://documents.thermofisher.com/TFS-Assets/LSG/manuals/MAN0012992_pUC19_DNA_MspI_HpaII_Marker_50ug_UG.pdf",
+      "scope": "component_match",
+      "review_sha256": "bd1d435f097250e47cd70f16963d46ee3c3ac069f5ad276560144ad3082b8974"
+    },
+    {
+      "ladder": "phix-haeiii",
+      "reference": "NEB N3026",
+      "url": "https://www.neb.com/en-us/products/n3026-x174-dna-haeiii-digest",
+      "scope": "component_match",
+      "review_sha256": "1c99b5b8e82c81cc79e21c15f52d87d744ab9d836924da14e0846b9f8423f66c"
+    },
+    {
+      "ladder": "phix-hinfi",
+      "reference": "Invitrogen 15616-014",
+      "url": "https://documents.thermofisher.com/TFS-Assets/LSG/manuals/15616014.pdf",
+      "scope": "distinct_size_match",
+      "review_sha256": "85736daa235fa8baff20fabac9f769033bfbdef71157820abf43d8ea87359fe6"
+    },
+    {
+      "ladder": "lambda-ecori",
+      "reference": "Thermo Scientific SM0281",
+      "url": "https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0013003_Lambda_DNA_EcoRI_Marker1_UG.pdf",
+      "scope": "component_match",
+      "review_sha256": "bc5333ecb0ad9b65023079defc5cf2e604442485b96844ae44f88692dd9d28f0"
+    },
+    {
+      "ladder": "lambda-wt-hindiii",
+      "reference": "NEB N3012",
+      "url": "https://www.neb.com/en-us/products/n3012-dna-hindiii-digest",
+      "scope": "component_mismatch",
+      "review_sha256": "30d4faafbd4d8735693e9e3266a7bb3ecbc2069ee87509a69a5acf1d5629d9b0"
+    },
+    {
+      "ladder": "lambda-wt-bsteii",
+      "reference": "NEB N3014",
+      "url": "https://www.neb.com/en-us/products/n3014-dna-bsteii-digest",
+      "scope": "component_mismatch",
+      "review_sha256": "252b26410ab7a0d3a712a22abc94deb9c7a517a78034c8ba74568fd093a5a223"
+    },
+    {
+      "ladder": "psu-100bp",
+      "reference": "Henrici et al. (2017)",
+      "url": "https://doi.org/10.1038/s41598-017-02693-1",
+      "scope": "component_match",
+      "review_sha256": "9fc0775fe7659c3e992bd94387c171fc68fa669a9fbc71e1677bcf3a954ebfcf"
+    },
+    {
+      "ladder": "psu-1kb-core",
+      "reference": "Henrici et al. (2017)",
+      "url": "https://doi.org/10.1038/s41598-017-02693-1",
+      "scope": "component_match",
+      "review_sha256": "de7655d3993eba9fc7e5965948bfe3134b02b097ca35f8c23fc47f0f73058b79"
+    },
+    {
+      "ladder": "psu-1kb-extended",
+      "reference": "Henrici et al. (2017)",
+      "url": "https://doi.org/10.1038/s41598-017-02693-1",
+      "scope": "component_match",
+      "review_sha256": "527e318cb3be804f869bfaaf6c181d23adb2862b0e9a788c0ddd56adc749160d"
+    },
+    {
+      "ladder": "psu-1kb-alternate",
+      "reference": "Henrici et al. (2017)",
+      "url": "https://doi.org/10.1038/s41598-017-02693-1",
+      "scope": "nominal_match",
+      "review_sha256": "a50337951eea5e73004c0567f0fd6606cf7070749fdf3201b7dab779a6012cec"
+    },
+    {
+      "ladder": "natural-protein",
+      "reference": "Bio-Rad 161-0304",
+      "url": "https://www.bio-rad.com/webroot/web/pdf/lsr/literature/4006033.pdf",
+      "scope": "protein_families_only"
+    },
+    {
+      "ladder": "psu-100bp",
+      "reference": "NEB N3231",
+      "url": "https://www.neb.com/en-us/products/n3231-100-bp-dna-ladder",
+      "scope": "component_mismatch",
+      "review_sha256": "ed6e945199198d49ca38583db4ac3b367028c82911f6be502df01ba74f66438d"
+    },
+    {
+      "ladder": "psu-1kb-extended",
+      "reference": "NEB N3232",
+      "url": "https://www.neb.com/en-us/products/n3232-1-kb-dna-ladder",
+      "scope": "component_mismatch",
+      "review_sha256": "26570fd29285527bf737310f7d9b850c885ae94dcfca913ece9f4bc549ea53bf"
+    }
+  ]
+}

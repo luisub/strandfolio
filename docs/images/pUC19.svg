@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" font-family="sans-serif">
+<title>pUC19</title>
+<desc>Circular map · 0° clockwise · 1× · landmarks
+Full record · 2,686 nt · Selected 233–289 · 57 nt
+960 × 640 px
+Record 43aba267-2007-4b68-a93a-eb4b26fcf96a
+Revision d70e2726-4cd0-46e9-b199-7c68fc76f2b0</desc>
+<rect width="960" height="640" fill="#ffffff"/>
+<circle class="map-backbone" cx="480.000" cy="320.000" r="209.440" fill="none" stroke="#59636f" stroke-width="2"/>
+<path class="map-selection" data-start="232" data-end="289" d="M 588.166 140.653 A 209.440 209.440 0 0 1 611.048 156.625" fill="none" stroke="#6236d3" stroke-width="6.5" stroke-linecap="round"/>
+<circle class="map-ruler" cx="480.00" cy="320.00" r="200.44" fill="none" stroke="#d4dadd" stroke-width="0.8"/>
+<line x1="480.00" y1="124.56" x2="480.00" y2="119.56" stroke="#8e99a1" stroke-width="0.9"/>
+<text class="map-tick" x="480.00" y="135.56" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">1</text>
+<line x1="525.88" y1="127.45" x2="526.46" y2="125.02" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="569.26" y1="143.33" x2="570.39" y2="141.10" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="607.78" y1="168.83" x2="609.40" y2="166.92" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="639.34" y1="202.57" x2="641.36" y2="201.09" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="659.92" y1="243.68" x2="664.53" y2="241.73" stroke="#8e99a1" stroke-width="0.9"/>
+<text class="map-tick" x="647.03" y="252.15" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">500</text>
+<line x1="675.18" y1="287.05" x2="677.64" y2="286.63" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="677.50" y1="333.19" x2="679.99" y2="333.35" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="669.06" y1="378.61" x2="671.45" y2="379.35" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="650.33" y1="420.84" x2="652.48" y2="422.11" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="620.52" y1="455.83" x2="624.12" y2="459.31" stroke="#8e99a1" stroke-width="0.9"/>
+<text class="map-tick" x="606.14" y="444.93" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">1,000</text>
+<line x1="586.55" y1="486.81" x2="587.90" y2="488.92" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="544.99" y1="506.97" x2="545.81" y2="509.33" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="499.88" y1="516.94" x2="500.13" y2="519.43" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="453.69" y1="516.18" x2="453.35" y2="518.66" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="409.83" y1="502.41" x2="408.03" y2="507.07" stroke="#8e99a1" stroke-width="0.9"/>
+<text class="map-tick" x="417.01" y="486.74" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">1,500</text>
+<line x1="368.04" y1="483.23" x2="366.63" y2="485.30" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="333.25" y1="452.84" x2="331.40" y2="454.51" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="306.46" y1="415.20" x2="304.27" y2="416.41" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="289.12" y1="372.39" x2="286.71" y2="373.05" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="284.67" y1="326.63" x2="279.68" y2="326.80" stroke="#8e99a1" stroke-width="0.9"/>
+<text class="map-tick" x="304.66" y="328.95" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">2,000</text>
+<line x1="286.01" y1="280.67" x2="283.56" y2="280.18" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="300.40" y1="236.78" x2="298.14" y2="235.73" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="324.59" y1="197.42" x2="322.62" y2="195.87" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="357.23" y1="164.73" x2="355.68" y2="162.77" stroke="#8e99a1" stroke-width="0.9"/>
+<line x1="397.62" y1="142.77" x2="395.51" y2="138.24" stroke="#8e99a1" stroke-width="0.9"/>
+<text class="map-tick" x="406.05" y="163.91" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">2,500</text>
+<line x1="440.45" y1="126.05" x2="439.95" y2="123.60" stroke="#8e99a1" stroke-width="0.9"/>
+<polyline points="625.63,111.36 631.35,103.16 652.84,103.16 659.84,103.16" fill="none" stroke="#4e29b4" stroke-width="0.85" stroke-linejoin="round"/>
+<g class="map-feature" stroke-linejoin="round" stroke-opacity="0.55"><title>lacZ alpha</title><desc>216–539</desc>
+<polygon points="593.00,114.59 610.08,124.96 626.22,136.74 641.29,149.86 655.19,164.21 667.82,179.70 679.09,196.20 688.91,213.60 697.21,231.78 698.60,231.22 694.70,251.24 679.14,239.12 680.53,238.55 672.87,221.77 663.80,205.71 653.40,190.47 641.74,176.17 628.91,162.92 614.99,150.81 600.09,139.93 584.32,130.36" fill="#307f77" stroke="#252135" stroke-width="0.85"/>
+<g class="map-arc-label" aria-label="lacZ alpha" font-size="12" font-weight="700" fill="#ffffff"><text transform="translate(629.77 151.50) rotate(41.63)" y="4" text-anchor="middle">l</text><text transform="translate(634.57 155.89) rotate(43.29)" y="4" text-anchor="middle">a</text><text transform="translate(640.65 161.83) rotate(45.45)" y="4" text-anchor="middle">c</text><text transform="translate(646.49 168.00) rotate(47.61)" y="4" text-anchor="middle">Z</text><text transform="translate(650.81 172.87) rotate(49.26)" y="4" text-anchor="middle"> </text><text transform="translate(654.98 177.85) rotate(50.91)" y="4" text-anchor="middle">a</text><text transform="translate(659.00 182.95) rotate(52.56)" y="4" text-anchor="middle">l</text><text transform="translate(662.88 188.17) rotate(54.21)" y="4" text-anchor="middle">p</text><text transform="translate(667.99 195.58) rotate(56.50)" y="4" text-anchor="middle">h</text><text transform="translate(672.81 203.18) rotate(58.79)" y="4" text-anchor="middle">a</text></g>
+</g>
+<g class="map-feature" stroke-linejoin="round" stroke-opacity="1"><title>MCS</title><desc>233–289</desc>
+<polygon points="611.41,102.12 615.16,104.43 618.88,106.80 622.55,109.24 626.19,111.75 627.05,110.52 633.57,128.54 614.98,127.71 615.84,126.48 612.47,124.15 609.05,121.89 605.60,119.68 602.11,117.53" fill="#b88540" stroke="#4e29b4" stroke-width="1.8"/>
+</g>
+<g class="map-feature" stroke-linejoin="round" stroke-opacity="0.55"><title>bla (AmpR)</title><desc>885–1,745</desc>
+<polygon points="686.07,431.80 675.93,448.74 664.39,464.78 651.55,479.79 637.49,493.66 622.32,506.30 606.13,517.62 589.05,527.53 571.20,535.98 552.69,542.88 533.68,548.21 514.28,551.92 494.63,553.98 474.89,554.38 455.18,553.12 435.64,550.21 416.42,545.65 397.66,539.50 379.47,531.79 362.00,522.58 345.37,511.93 329.69,499.92 315.08,486.63 301.64,472.15 300.50,473.13 297.89,452.89 316.48,459.50 315.34,460.47 327.74,473.83 341.23,486.10 355.71,497.19 371.06,507.03 387.19,515.53 403.98,522.65 421.30,528.33 439.05,532.53 457.08,535.22 475.28,536.39 493.51,536.02 511.64,534.11 529.55,530.69 547.11,525.77 564.19,519.39 580.68,511.60 596.45,502.44 611.39,492.00 625.40,480.33 638.38,467.52 650.24,453.66 660.88,438.86 670.25,423.21" fill="#307f77" stroke="#252135" stroke-width="0.85"/>
+<g class="map-arc-label" aria-label="bla (AmpR)" font-size="12" font-weight="700" fill="#ffffff"><text transform="translate(461.55 544.68) rotate(4.69)" y="4" text-anchor="middle">b</text><text transform="translate(468.04 545.12) rotate(3.04)" y="4" text-anchor="middle">l</text><text transform="translate(474.53 545.37) rotate(1.39)" y="4" text-anchor="middle">a</text><text transform="translate(481.03 545.44) rotate(-0.26)" y="4" text-anchor="middle"> </text><text transform="translate(486.03 545.36) rotate(-1.53)" y="4" text-anchor="middle">(</text><text transform="translate(493.52 545.03) rotate(-3.44)" y="4" text-anchor="middle">A</text><text transform="translate(503.98 544.16) rotate(-6.11)" y="4" text-anchor="middle">m</text><text transform="translate(514.39 542.80) rotate(-8.78)" y="4" text-anchor="middle">p</text><text transform="translate(523.26 541.25) rotate(-11.06)" y="4" text-anchor="middle">R</text><text transform="translate(530.11 539.80) rotate(-12.84)" y="4" text-anchor="middle">)</text></g>
+</g>
+<g class="map-feature" stroke-linejoin="round" stroke-opacity="0.55"><title>pMB1 ori</title><desc>1,916–2,504</desc>
+<polygon points="251.88,374.08 248.05,354.10 245.97,333.86 245.65,313.52 247.09,293.23 250.29,273.14 255.22,253.40 261.84,234.17 270.10,215.58 279.94,197.78 291.29,180.89 304.06,165.06 318.15,150.39 333.46,137.00 349.88,124.98 367.28,114.44 366.55,113.12 386.89,114.68 376.65,131.54 375.93,130.22 359.87,139.96 344.72,151.05 330.58,163.41 317.57,176.96 305.78,191.57 295.30,207.16 286.21,223.60 278.59,240.76 272.48,258.52 267.93,276.74 264.98,295.29 263.64,314.02 263.94,332.80 265.86,351.48 269.40,369.92" fill="#396c91" stroke="#252135" stroke-width="0.85"/>
+<g class="map-arc-label" aria-label="pMB1 ori" font-size="12" font-weight="700" fill="#ffffff"><text transform="translate(267.36 245.12) rotate(289.40)" y="4" text-anchor="middle">p</text><text transform="translate(271.08 235.30) rotate(292.07)" y="4" text-anchor="middle">M</text><text transform="translate(275.25 225.66) rotate(294.74)" y="4" text-anchor="middle">B</text><text transform="translate(278.95 218.01) rotate(296.90)" y="4" text-anchor="middle">1</text><text transform="translate(281.73 212.70) rotate(298.42)" y="4" text-anchor="middle"> </text><text transform="translate(284.91 207.03) rotate(300.07)" y="4" text-anchor="middle">o</text><text transform="translate(289.04 200.17) rotate(302.11)" y="4" text-anchor="middle">r</text><text transform="translate(292.02 195.55) rotate(303.51)" y="4" text-anchor="middle">i</text></g>
+</g>
+<text class="map-callout" x="664.84" y="98.16" text-anchor="start" fill="#4e29b4" font-size="12" font-weight="700">MCS</text>
+<text class="map-callout-interval" x="664.84" y="116.16" text-anchor="start" fill="#625a75" font-size="10" font-weight="400">233–289 →</text>
+<text class="map-title" x="480.00" y="316.00" text-anchor="middle" fill="#252135" font-size="22" font-weight="700">pUC19</text>
+<text class="" x="480.00" y="332.00" text-anchor="middle" fill="#625a75" font-size="12" font-weight="400">2,686 nt · Circular</text>
+<text class="selection-summary" x="16.00" y="628.00" text-anchor="start" fill="#4e29b4" font-size="11" font-weight="400">Selected 233–289 · 57 nt</text>
+</svg>

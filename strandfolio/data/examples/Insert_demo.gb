@@ -1,0 +1,43 @@
+LOCUS       Insert_demo             1800 bp    DNA     linear   UNK 20-NOV-2026
+DEFINITION  Strandfolio synthetic PCR example.
+ACCESSION   Insert_demo
+VERSION     Insert_demo
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    295..1206
+                     /label="Example target"
+ORIGIN
+        1 tttagccaag tattctatta ttacaagcgt acgtcgcatc caacgcccat aattgtacta
+       61 cgagaaacca gttggcagtg ctcgttgcct acgcttcggt ttttaatggc tcagtttaag
+      121 ggttgttgag tgggcccact ggcaaggaaa tacggccggc agctagttct aaggtagttg
+      181 taaccggtct agatgtcccg cgcgaaaacg gcgcttaagt gacggattag gtgacaggcc
+      241 ctaacgtaga ccatggatgt gctgagctgc ctgttaataa ggcagtgtgg aaagtgtcac
+      301 gaattcggcg atactaggat cggattgaaa tgcacatcac acatgtggca aggccgctta
+      361 gtcgcccgtg taacattggt acggaagggg cagatttcga cccctgctgc tttcccggcc
+      421 cgtccatgtg tactctaaag ggattggcca tgctcggcgt attgtgcaga ttgagccaac
+      481 aagttgaagg ctgtgaagaa tttgtcttac atcgatcagg acacacagca ctaggacccc
+      541 ctttcctgtt ggagctccgg tggcggatac aatgttgggt ccggtggtca gacaaaggac
+      601 ctaaaggcta taatactgac cgcaagaatg gagtctcatc tacttggcgg atggtctggt
+      661 gtcgtgcgat tggaatgggg gtgtggtgct ttccgcagaa cctcgccagg gaatatcgct
+      721 gcatcgagtt gtactctttg ataggctaca gaagagcggt agtgtctgac ggtctaccta
+      781 cgcgctggct attgatagac accaagggag agccctatcg atcttctaac ctccggaaat
+      841 ccggatgggc acgatcgaag cgccgccgtt gtcgcaccaa gagcacgccc catcaggcga
+      901 acgcaacctg tcgaggaggg aagatccccg gagtctcaat taacacatgc gagctacttg
+      961 ggcagacgcc tctccataac ccgccgacga attgggtacg tgacgaccga gcttttgtcc
+     1021 aatctcatta cgcacgcacg gctgtgacgt tgagggccat ccttctcacg aaaggatttt
+     1081 atagggtgaa cccacgagga tttcaaactg ttagtcccta atgtgagaca acaattttcc
+     1141 ttacagcact tttgggtggc gagaggttac acattgttct aaatttttgt agggatgagt
+     1201 ggatccctcc ctgatagatc atcatgcggt tagcagctag ttggtgacaa ctaatgcttt
+     1261 cgagagctgt tggacgatct cgtatgtgat cactctgtgt gtggctgatc aaggtagaca
+     1321 ccataaaatc taaaccgtag ttcgacgtaa aactaattgg tcgatttgca gatcaccttg
+     1381 agtgtgcata gagaatgtgc cgattgtgag tcatggggtg caggtgcata gttgtagggc
+     1441 gcctgcacac tatgtttatc tccattttaa gtacagaggc tccgtgagga tggtgcgtac
+     1501 tccatggctg cacgtccggt caggtgtaag taggctattg gatcgattcg acagccccgg
+     1561 cgggctatgt aagctggcgt ggagtgtagt gccgaatcta taaatatcga gcatgtcagg
+     1621 cgatgagact gggcgcagat gcacgactga ggaccgtata catagcatat atgtctggat
+     1681 gtgaccccaa gccatcgtcg gataactgac aaataattgg agacaacctg tcccctctgc
+     1741 tggttccaga tacattttat cggtagggtc agcttatgtg tggttacgct taaggacgcc
+//

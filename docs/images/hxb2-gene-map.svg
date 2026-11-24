@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="204" viewBox="0 0 1200 204" font-family="sans-serif">
+<title>HIV-1 HXB2 · gene map (coordinates only)</title>
+<desc>Linear map · landmarks
+Full record · 9,719 nt · No selection
+1200 × 204 px
+Record 779c9722-7ff8-4e9e-a140-ae28e07d7a65
+Revision a7447662-0ca1-4b64-9b09-22038050a9c6</desc>
+<rect width="1200" height="204" fill="#ffffff"/>
+<text class="map-title" x="22.00" y="24.00" text-anchor="start" fill="#252135" font-size="15" font-weight="700">HIV-1 HXB2 · gene map (coordinates only)</text>
+<text class="" x="22.00" y="42.00" text-anchor="start" fill="#625a75" font-size="10" font-weight="400">DNA · 9,719 nt · linear</text>
+<rect class="map-backbone" x="22.0" y="52" width="1156.0" height="10" rx="5" fill="#e2dcef"></rect>
+<text class="map-tick" x="22.00" y="78.00" text-anchor="start" fill="#625a75" font-size="10" font-weight="400">1</text>
+<text class="map-tick" x="259.77" y="78.00" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">2,000</text>
+<text class="map-tick" x="497.65" y="78.00" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">4,000</text>
+<text class="map-tick" x="735.53" y="78.00" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">6,000</text>
+<text class="map-tick" x="973.42" y="78.00" text-anchor="middle" fill="#625a75" font-size="10" font-weight="400">8,000</text>
+<text class="map-tick" x="1178.00" y="78.00" text-anchor="end" fill="#625a75" font-size="10" font-weight="400">9,719</text>
+<g class="map-feature"><title>gag</title>
+<polygon points="115.85,86.00 288.62,86.00 294.62,93.00 288.62,100.00 115.85,100.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="205.23" y="96.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">gag</text>
+</g>
+<g class="map-feature"><title>vif</title>
+<polygon points="621.47,86.00 684.34,86.00 690.34,93.00 684.34,100.00 621.47,100.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="655.90" y="96.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">vif</text>
+</g>
+<g class="map-feature"><title>tat</title>
+<polygon points="715.43,86.00 1023.32,86.00 1029.32,93.00 1023.32,100.00 715.43,100.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="872.38" y="96.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">tat</text>
+</g>
+<g class="map-feature"><title>nef</title>
+<polygon points="1068.22,86.00 1136.08,86.00 1142.08,93.00 1136.08,100.00 1068.22,100.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="1105.15" y="96.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">nef</text>
+</g>
+<g class="map-feature"><title>pol</title>
+<polygon points="269.88,106.00 622.13,106.00 628.13,113.00 622.13,120.00 269.88,120.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="449.00" y="116.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">pol</text>
+</g>
+<g class="map-feature"><title>vpr</title>
+<polygon points="683.08,106.00 711.81,106.00 717.81,113.00 711.81,120.00 683.08,120.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="700.45" y="116.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">vpr</text>
+</g>
+<g class="map-feature"><title>rev</title>
+<polygon points="731.97,106.00 1045.21,106.00 1051.21,113.00 1045.21,120.00 731.97,120.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="891.59" y="116.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">rev</text>
+</g>
+<g class="map-feature"><title>vpu</title>
+<polygon points="742.91,126.00 766.53,126.00 772.53,133.00 766.53,140.00 742.91,140.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="757.72" y="136.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">vpu</text>
+</g>
+<g class="map-feature"><title>env</title>
+<polygon points="762.30,146.00 1062.10,146.00 1068.10,153.00 1062.10,160.00 762.30,160.00" fill="#58658a" stroke="#ffffff" stroke-width="0.75"/>
+<text class="" x="915.20" y="156.50" text-anchor="middle" fill="#ffffff" font-size="10" font-weight="700">env</text>
+</g>
+<text class="selection-summary" x="22.00" y="192.00" text-anchor="start" fill="#4e29b4" font-size="11" font-weight="400">No selection</text>
+</svg>
